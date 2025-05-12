@@ -1,0 +1,15 @@
+{
+  "name": "Сеть",
+  "name-plural": "Сети",
+  "button": {
+    "add": "Добавить сеть",
+    "remove": "Удалить сеть",
+    "attach": "Подключить сеть",
+    "detach": "Отключить сеть"
+  },
+  "ip-missing": {
+    "ru": "Публичный IP отсутствует",
+    "en": "Public IP is missing",
+    "de": "Öffentliche IP fehlt"
+  }
+}
