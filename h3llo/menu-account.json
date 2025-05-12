@@ -1,0 +1,52 @@
+{
+  "company-personal": {
+    "ru": "Информация",
+    "en": "Information",
+    "de": "Informationen"
+  },
+  "company-postpaid": {
+    "ru": "Компания",
+    "en": "Company",
+    "de": "Firma"
+  },
+  "projects": {
+    "ru": "Проекты",
+    "en": "Projects",
+    "de": "Projekte"
+  },
+  "billing": {
+    "ru": "Биллинг",
+    "en": "Billing",
+    "de": "Abrechnung"
+  },
+  "users": {
+    "ru": "Участники",
+    "en": "Users",
+    "de": "Benutzer"
+  },
+  "limits": {
+    "ru": "Лимиты",
+    "en": "Limits",
+    "de": "Grenzwerte"
+  },
+  "api": {
+    "ru": "API",
+    "en": "API",
+    "de": "API"
+  },
+  "profile-headline": {
+    "ru": "Настройки",
+    "en": "Settings",
+    "de": "Einstellungen"
+  },
+  "profile": {
+    "ru": "Профайл",
+    "en": "Profile",
+    "de": "Profil"
+  },
+  "profile-logout": {
+    "ru": "Выход",
+    "en": "Logout",
+    "de": "Abmelden"
+  }
+}
