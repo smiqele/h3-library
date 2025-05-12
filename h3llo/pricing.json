@@ -1,0 +1,22 @@
+{
+      "hour": {
+        "ru": "Час",
+        "en": "Hour",
+        "de": "Stunde"
+      },
+      "day": {
+        "ru": "День",
+        "en": "Day",
+        "de": "Tag"
+      },
+      "month": {
+        "ru": "Месяц",
+        "en": "Month",
+        "de": "Monat"
+      },
+      "configuration-cost": {
+        "ru": "Стоимость конфигурации",
+        "en": "Configuration cost",
+        "de": "Konfigurationskosten"
+      }
+ }
