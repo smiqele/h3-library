@@ -1,0 +1,142 @@
+{
+  "title": {
+    "ru": "Настройте конфигурацию виртуальной машины",
+    "en": "",
+    "de": "Konfigurieren Sie die Einstellungen der virtuellen Maschine"
+  },
+  "os-headline": {
+    "ru": "Выберите операционную систему",
+    "en": "Select the operating system",
+    "de": "Wählen Sie das Betriebssystem"
+  },
+  "config-headline": {
+    "ru": "Конфигурация виртуальной машины",
+    "en": "Virtual machine configuration",
+    "de": "Konfiguration der virtuellen Maschine"
+  },
+  "config-instance-label": {
+    "ru": "Инстансы заданной конфигурации",
+    "en": "Instances of the specified configuration",
+    "de": "Instanzen der angegebenen Konfiguration"
+  },
+  "config-instance-tooltip": {
+    "ru": "Количество инстансов с выбранной конфигурацией, которые будут развернуты.",
+    "en": "The number of instances with the selected configuration to be deployed.",
+    "de": "Die Anzahl der Instanzen mit der ausgewählten Konfiguration, die bereitgestellt werden sollen."
+  },
+  "config-cpu-label": {
+    "ru": "Кол-во CPU",
+    "en": "Number of CPUs",
+    "de": "Anzahl der CPUs"
+  },
+  "config-cpu-tooltip": {
+    "ru": "Количество виртуальных CPU, выделенных для этой конфигурации.",
+    "en": "The number of virtual CPUs allocated for this configuration.",
+    "de": "Die Anzahl der virtuellen CPUs, die für diese Konfiguration zugewiesen sind."
+  },
+  "config-ram-label": {
+    "ru": "Кол-во RAM",
+    "en": "Amount of RAM",
+    "de": "Menge an RAM"
+  },
+  "config-ram-tooltip": {
+    "ru": "Объем оперативной памяти (RAM), доступной для каждого инстанса.",
+    "en": "The amount of RAM available for each instance.",
+    "de": "Die Menge an RAM, die für jede Instanz verfügbar ist."
+  },
+  "disk-headline": {
+    "ru": "Диски",
+    "en": "Disks",
+    "de": "Festplatten"
+  },
+  "disk-add-button": {
+    "ru": "Добавить диск",
+    "en": "Add disk",
+    "de": "Festplatte hinzufügen"
+  },
+  "params-headline": {
+    "ru": "Дополнительные параметры",
+    "en": "Additional parameters",
+    "de": "Zusätzliche Parameter"
+  },
+  "params-namevm-label": {
+    "ru": "Имя виртуальной машины",
+    "en": "Virtual machine name",
+    "de": "Name der virtuellen Maschine"
+  },
+  "params-namevm-tooltip": {
+    "ru": "Уникальное имя, присвоенное виртуальной машине для идентификации.",
+    "en": "A unique name assigned to the virtual machine for identification.",
+    "de": "Ein eindeutiger Name, der der virtuellen Maschine zur Identifikation zugewiesen wird."
+  },
+  "params-namevm-input": {
+    "ru": "Имя виртуальной машины",
+    "en": "Virtual machine name",
+    "de": "Name der virtuellen Maschine"
+  },
+  "params-ssh-label": {
+    "ru": "SSH ключ",
+    "en": "SSH key",
+    "de": "SSH-Schlüssel"
+  },
+  "params-ssh-tooltip": {
+    "ru": "Публичный SSH-ключ для безопасного доступа к виртуальной машине.",
+    "en": "Public SSH key for secure access to the virtual machine.",
+    "de": "Öffentlicher SSH-Schlüssel für den sicheren Zugriff auf die virtuelle Maschine."
+  },
+  "params-ssh-input": {
+    "ru": "Нет сохраненных ключей доступа",
+    "en": "No saved access keys",
+    "de": "Keine gespeicherten Zugriffsschlüssel"
+  },
+  "params-network-label": {
+    "ru": "Подключить сеть",
+    "en": "Connect network",
+    "de": "Netzwerk verbinden"
+  },
+  "params-network-tooltip": {
+    "ru": "Выбор сети, к которой будет подключена виртуальная машина.",
+    "en": "Select the network to which the virtual machine will be connected.",
+    "de": "Wählen Sie das Netzwerk, mit dem die virtuelle Maschine verbunden wird."
+  },
+  "params-network-input": {
+    "ru": "Список сетей пуст",
+    "en": "Network list is empty",
+    "de": "Netzwerkliste ist leer"
+  },
+  "params-cloudconfig-label": {
+    "ru": "Cloud Init Config",
+    "en": "Cloud Init Config",
+    "de": "Cloud-Init-Konfiguration"
+  },
+  "params-cloudconfig-tooltip": {
+    "ru": "Добавьте Cloud Init скрипт для автоматической настройки виртуальной машины при запуске",
+    "en": "Add a Cloud Init script for automatic virtual machine setup on startup.",
+    "de": "Fügen Sie ein Cloud-Init-Skript für die automatische Einrichtung der virtuellen Maschine beim Start hinzu."
+  },
+  "params-cloudconfig-button": {
+    "ru": "Добавить",
+    "en": "Add",
+    "de": "Hinzufügen"
+  },
+  "params-ip4v-label": {
+    "ru": "Публичный IP4v",
+    "en": "Public IPv4",
+    "de": "Öffentliche IPv4"
+  },
+  "params-ip4v-tooltip": {
+    "ru": "Назначение IPv4-адреса для доступа к виртуальной машине по сети.",
+    "en": "Assign an IPv4 address for network access to the virtual machine.",
+    "de": "Weisen Sie eine IPv4-Adresse für den Netzwerkzugriff auf die virtuelle Maschine zu."
+  },
+  "params-ip4v-switch-off": {
+    "ru": "Не активен",
+    "en": "Inactive",
+    "de": "Inaktiv"
+  },
+  "params-ip4v-switch-on": {
+    "ru": "Активен",
+    "en": "Active",
+    "de": "Aktiv"
+  }
+}
