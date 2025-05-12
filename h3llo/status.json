@@ -1,0 +1,27 @@
+{
+	"work": {
+		"ru": "Работает",
+		"en": "Running",
+		"de": "Läuft"
+	},
+	"stopped": {
+		"ru": "Остановлен",
+		"en": "Stopped",
+		"de": "Gestoppt"
+	},
+	"error": {
+		"ru": "Ошибка",
+		"en": "Error",
+		"de": "Fehler"
+	},
+	"rebooting": {
+		"ru": "Перезагрузка",
+		"en": "Rebooting",
+		"de": "Neustart"
+	},
+	"rebuilding": {
+		"ru": "Восстановление",
+		"en": "Rebuilding",
+		"de": "Wiederherstellung"
+	}
+}
