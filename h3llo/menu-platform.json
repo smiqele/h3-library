@@ -1,0 +1,42 @@
+{
+  "vm": {
+    "ru": "Инстансы",
+    "en": "",
+    "de": "Instanzen"
+  },
+  "capsule": {
+    "ru": "Капсулы",
+    "en": "Capsules",
+    "de": "Kapseln"
+  },
+  "dbass": {
+    "ru": "Базы данных",
+    "en": "Databases",
+    "de": "Datenbanken"
+  },
+  "networks": {
+    "ru": "Сети",
+    "en": "Networks",
+    "de": "Netzwerke"
+  },
+  "balancer": {
+    "ru": "Балансировщики",
+    "en": "Load Balancers",
+    "de": "Lastenausgleich"
+  },
+  "kubernetes": {
+    "ru": "Kubernetes",
+    "en": "Kubernetes",
+    "de": "Kubernetes"
+  },
+  "storage": {
+    "ru": "Объектное хранилище",
+    "en": "Object Storage",
+    "de": "Objektspeicher"
+  },
+  "cdn": {
+    "ru": "CDN",
+    "en": "CDN",
+    "de": "CDN"
+  }
+}
